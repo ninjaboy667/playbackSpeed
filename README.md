@@ -5,7 +5,7 @@ Control the speed of video playback.
 ![](screenshots/1.png)
 
 ## Requirements
-- Firefox 60+
+~~- Firefox 60+~~
 
 ## Permissions
 - Tabs
@@ -14,4 +14,5 @@ Control the speed of video playback.
 - <all_urls> (for embedded videos)
 
 ## Download
-https://addons.mozilla.org/firefox/addon/playback-speed?src=external-github
+for firefox, forked to modify for CHROME
+~~https://addons.mozilla.org/firefox/addon/playback-speed?src=external-github~~
